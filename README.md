@@ -2,6 +2,63 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
+
+# 📱 React Native App 🚀
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-0.74-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Expo-Managed_Workflow-green?style=for-the-badge&logo=expo" />
+  <img src="https://img.shields.io/badge/Platform-Android_|_iOS-orange?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-purple?style=for-the-badge" />
+</div>
+
+---
+
+## ✨ Overview
+Welcome to **My React Native App** 🎉 — a cross-platform mobile application built with  
+⚡ **React Native** + ❤️ **Expo**.  
+
+This app is designed to be:
+- 📱 **Cross-platform** (works on Android & iOS)  
+- 🎨 **Beautifully styled** with modern UI  
+- ⚡ **Fast & responsive**  
+- 🔥 **Ready for production**  
+
+---
+
+## 🖼️ Screenshots
+Here’s a sneak peek 👇 (replace with your own screenshots later):
+
+<div align="center">
+  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="200" />
+  <img src="https://via.placeholder.com/250x500.png?text=Login+Screen" width="200" />
+  <img src="https://via.placeholder.com/250x500.png?text=Profile+Screen" width="200" />
+</div>
+
+---
+
+## ⚙️ Installation & Setup
+
+### 🔧 Prerequisites
+- [Node.js](https://nodejs.org/) (>= 16)
+- [Yarn](https://yarnpkg.com/) or npm
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+
+### ▶️ Run locally
+```bash
+# Clone the repo
+git clone https://github.com/<your-username>/<repo-name>.git
+
+# Go into the project folder
+cd MyApp
+
+# Install dependencies
+yarn install   # or npm install
+
+# Start the app 🚀
+npx expo start
+
+
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
